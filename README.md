@@ -16,6 +16,7 @@ VPNs get all the fanfare, but proxies are also pretty important too...
 * Shadowsocks-libev
 * Tor
 * https://www.irif.fr/~jch/software/polipo/ - no longer maintained
+  
 
 ### Socks supporting apps
 
@@ -32,6 +33,9 @@ VPNs get all the fanfare, but proxies are also pretty important too...
 * 
 
 ## Providers
+
+* [Proxy Poland](https://proxypoland.com/)
+* [CryptoProxy](https://cryptoproxy.net/)
 
 ### Free Providers and lists
 
