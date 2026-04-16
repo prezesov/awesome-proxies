@@ -69,7 +69,7 @@ NordVPN | https://nordvpn.com/ | |
 BuyProxies 24/7 | https://buyproxies247.com/ | |
 HideIP | https://hideip.me/en/proxy/socks5list | |
 Prem Proxies | https://premproxy.com/list/ | |
-CryptoProxy | https://cryptoproxies.net | |
+CryptoProxy | https://cryptoproxy.net | |
 
 
 
