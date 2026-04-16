@@ -49,6 +49,7 @@ Spys One | http://spys.one/en/socks-proxy-list/ |
 
 Name | URL | Free tier | Notes
 ------------ | ------------- | --- | --- 
+Proxy Poland | https://proxypoland.com/en | |
 Socks Proxy | https://www.socks-proxy.net/ | Y  |
 Proxy Rack | https://www.proxyrack.com/access/page/choose-proxy-service |    |
 SocksList | https://sockslist.net/ | |
@@ -68,6 +69,7 @@ NordVPN | https://nordvpn.com/ | |
 BuyProxies 24/7 | https://buyproxies247.com/ | |
 HideIP | https://hideip.me/en/proxy/socks5list | |
 Prem Proxies | https://premproxy.com/list/ | |
+CryptoProxy | https://cryptoproxies.net | |
 
 
 
